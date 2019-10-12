@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "José Lise"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/CV-17-09-01.jpg"
   bio              : "Data Science Portfolio"
   location         : "Colombes, France"
   email            :
