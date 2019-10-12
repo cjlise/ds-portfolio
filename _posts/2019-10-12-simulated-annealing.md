@@ -3,7 +3,7 @@ title: "Metaheuristics Project: Simulated Annealing"
 date: 2019-10-12
 tags: [metaheuristics, optimization, data science]
 header: 
-   image: "images/annealing/annealing.png"
+   image: "/images/annealing/annealing.png"
 excerpt: "metaheuristics, optimization, data science"
 ---
 
